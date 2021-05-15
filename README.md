@@ -1,6 +1,6 @@
 # ICRA2021-SLAM-paper-list
 
-## 语义定位建图：
+## Semantic localization and mapping：
 
 1. Visual Semantic Localization Based on HD Map for Autonomous Vehicles in Urban Scenarios
 2. RoadMap: A Light-Weight Semantic Map for Visual Localization towards Autonomous Driving
@@ -18,7 +18,7 @@
 
 
 
-## 视觉SLAM
+## Visual SLAM
 
 #### Visual SLAM
 
@@ -100,7 +100,7 @@
 3. Deep 6-DoF Tracking of Unknown Objects for Reactive Grasping https://arxiv.org/abs/2103.05401
 4. TSDF++: A Multi-Object Formulation for Dynamic Object Tracking and Reconstruction
 
-## 深度：
+## Depth estimation：
 
 1. Robust Monocular Visual-Inertial Depth Completion for Embedded Systems http://udel.edu/~pgeneva/downloads/papers/c19.pdf
 2. Multimodal Scale Consistency and Awareness for Monocular Self-Supervised Depth Estimation https://arxiv.org/abs/2103.02451
@@ -116,7 +116,7 @@
 12. Linear Inverse Problem for Depth Completion with RGB Image and Sparse LIDAR Fusion
 13. Toward Robust and Efficient Online Adaptation for Deep Stereo Depth Estimation
 
-## 视觉场景识别：
+## Visual place recognition：
 
 1. Intelligent Reference Curation for Visual Place Recognition Via Bayesian Selective Fusion https://arxiv.org/abs/2010.09228
 2. Appearance-Based Loop Closure Detection Via Bidirectional Manifold Representation Consensus
@@ -130,7 +130,7 @@
 10. STA-VPR: Spatio-Temporal Alignment for Visual Place Recognition https://arxiv.org/abs/2103.13580
 11. Visual Place Recognition Via Local Affine Preserving Matching
 
-## 激光场景识别：
+## lidar place recognition：
 
 1. DiSCO: Differentiable Scan Context with Orientation https://arxiv.org/abs/2010.10949
 2. Robust Place Recognition Using an Imaging Lidar https://arxiv.org/abs/2103.02111
@@ -139,7 +139,7 @@
 5. Beyond ANN: Exploiting Structural Knowledge for Efficient Place Recognition https://arxiv.org/abs/2103.08366
 6. Place Recognition in Forests with Urquhart Tessellations http://arxiv.org/pdf/2010.03026
 
-## 多传感器融合定位：
+## multi-sensor fusion localization：
 
 1. LVI-SAM: Tightly-Coupled Lidar-Visual-Inertial Odometry Via Smoothing and Mapping https://arxiv.org/abs/2104.10831 / https://github.com/TixiaoShan/LVI-SAM
 2. MSTSL: Multi-Sensor Based Two-Step Localization in Geometrically Symmetric Environments
@@ -158,12 +158,12 @@
 15. Vanishing Point Aided LiDAR-Visual-Inertial Estimator https://people.inf.ethz.ch/pomarc/pubs/CamposecoICRA15.pdf
 16. Any Way You Look at It: Semantic Crossview Localization and Mapping with LiDAR https://github.com/iandouglas96/cross_view_slam / https://ieeexplore.ieee.org/document/9361130
 
-## 多传感器融合建图：
+## multi-sensor fusion mapping：
 
 1. Lidar-Monocular Surface Reconstruction Using Line Segments https://arxiv.org/abs/2104.02761
 2. Automatic Mapping of Tailored Landmark Representations for Automated Driving and Map Learning
 
-## 激光SLAM
+## Lidar SLAM
 
 #### lidar SLAM
 
@@ -230,15 +230,15 @@
 
 
 
-#### 固态激光：
+#### Solid-state lidar：
 
 1. Lightweight 3-D Localization and Mapping for Solid-State LiDAR https://arxiv.org/abs/2102.03800 
 
-#### 点云压缩：
+#### Point cloud compression：
 
 1. Deep Compression for Dense Point Cloud Maps https://github.com/PRBonn/deep-point-map-compression / https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/wiesmann2021ral.pdf
 
-## 全局定位：
+## Global localization：
 
 1. Robust LiDAR Feature Localization for Autonomous Vehicles Using Geometric Fingerprinting on Open Datasets https://github.com/dcmlr/fingerprint-localization / https://ieeexplore.ieee.org/document/9363614
 2. Learned Uncertainty Calibration for Visual Inertial Localization
@@ -258,7 +258,7 @@
 
 
 
-## 学习：
+## Learning-based：
 
 1. End-To-End Semi-Supervised Learning for Differentiable Particle Filters https://arxiv.org/abs/2011.05748
 2. Initialisation of Autonomous Aircraft Visual Inspection Systems Via CNN-Based Camera Pose Estimation
@@ -272,12 +272,7 @@
 3. A Normal Distribution Transform-Based Radar Odometry Designed for Scanning and Automotive Radars
 
 
-
-## 定位与建图（不确定传感器）
-
-1. Simultaneous Estimation and Modeling of Robotic Systems with Non-Gaussian State Belief
-
-## 数据关联：
+## Data association：
 
 1. CLEAR: A Consistent Lifting, Embedding, and Alignment Rectification Algorithm for Multiview Data Association (I) https://arxiv.org/abs/1902.02256
 2. ROBIN: A Graph-Theoretic Approach to Reject Outliers in Robust Estimation Using Invariants https://arxiv.org/abs/2011.03659
@@ -285,14 +280,14 @@
 
 
 
-## 后端：
+## Back-end：
 
 1. NF-iSAM: Incremental Smoothing and Mapping Via Normalizing Flows
 2. A Switching-Coupled Backend for Simultaneous Localization and Dynamic Object Tracking
 
 
 
-## 分布式SLAM：
+## Distributed SLAM：
 
 1. Distributed Client-Server Optimization for SLAM with Limited On-Device Resources https://arxiv.org/abs/2103.14303
 2. Invariant Extended Kalman Filtering Using Two Position Receivers for Extended Pose Estimation https://arxiv.org/abs/2104.14711
@@ -304,7 +299,7 @@
 
 1. Lifelong Localization in Semi-Dynamic Environment
 
-## 标定：
+## Calibration：
 
 1. Extrinsic Calibration of Multiple LiDARs of Small FoV in Targetless Environments https://www.researchgate.net/publication/348894700_Extrinsic_Calibration_of_a_Small_FoV_LiDAR_and_a_Camera/link/601920b245851517ef32114f/download
 2. Efficient Online Calibration for Autonomous Vehicle's Longitudinal Dynamical System: A Gaussian Model Approach
@@ -326,14 +321,14 @@
 
 
 
-## 数学相关：
+## Math related：
 
 1. Efficient Modification of the Upper Triangular Square Root Matrix on Variable Reordering https://www.researchgate.net/publication/347950562_Efficient_Modification_of_the_Upper_Triangular_Square_Root_Matrix_on_Variable_Reordering/link/6009d60a92851c13fe2a8084/download
 2. Robust 360-8PA: Redesigning the Normalized 8-Point Algorithm for 360-FoV Images https://arxiv.org/abs/2104.10900
 
 
 
-## 数据集：
+## Dataset：
 
 1. RADIATE: A Radar Dataset for Automotive Perception in Bad Weather https://arxiv.org/pdf/2010.09076
 2. Cirrus: A Long-Range Bi-Pattern LiDAR Dataset https://arxiv.org/abs/2012.02938
@@ -346,11 +341,11 @@
 
 
 
-## 医学定位：
+## Medical localization：
 
 1. Robotically Surgical Vessel Localization Using Robust Hybrid Video Motion Magnification https://ieeexplore.ieee.org/document/9353981
 
-## 声源定位：
+## Sound source localization：
 
 1. GCC-PHAT with Speech-Oriented Attention for Robotic Sound Source Localization
 
@@ -367,7 +362,7 @@
 
 
 
-## 机器人定位建图：
+## Robotics localization：
 
 1. Improving Ranging-Based Location Estimation with Rigidity-Constrained CRLB-Based Motion Planning
 2. Relative Position Estimation in Multi-Agent Systems Using Attitude-Coupled Range Measurements
@@ -386,11 +381,11 @@
 
 1. Predictive 3D Sonar Mapping of Underwater Environments Via Object-Specific Bayesian Inference https://arxiv.org/abs/2104.03203
 
-## 触觉SLAM：
+## Tactile SLAM：
 
 1. Tactile SLAM: Real-Time Inference of Shape and Pose from Planar Pushing https://arxiv.org/abs/2011.07044
 
-## 主动SLAM：
+## Active SLAM：
 
 1. Invariant EKF Based 2D Active SLAM with Exploration Task
 
