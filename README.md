@@ -301,7 +301,7 @@
 
 ## Calibration：
 
-1. Extrinsic Calibration of Multiple LiDARs of Small FoV in Targetless Environments https://www.researchgate.net/publication/348894700_Extrinsic_Calibration_of_a_Small_FoV_LiDAR_and_a_Camera/link/601920b245851517ef32114f/download
+1. Extrinsic Calibration of Multiple LiDARs of Small FoV in Targetless Environments http://link.zhihu.com/?target=https%3A//ieeexplore.ieee.org/document/9361153
 2. Efficient Online Calibration for Autonomous Vehicle's Longitudinal Dynamical System: A Gaussian Model Approach
 3. Automated Extrinsic Calibration for 3D LiDARs with Range Offset Correction Using an Arbitrary Planar Board
 4. Targetless Multiple Camera-LiDAR Extrinsic Calibration Using Object Pose Estimation
