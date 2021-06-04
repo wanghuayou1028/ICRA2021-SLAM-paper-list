@@ -1,5 +1,9 @@
 # ICRA2021-SLAM-paper-list
 
+All the classified papers can be download from Baidu cloud Disk:
+Link：https://pan.baidu.com/s/1NplHJezNTN_YetYmqI0qUg
+passwork：gban
+
 ## Semantic localization and mapping：
 
 1. Visual Semantic Localization Based on HD Map for Autonomous Vehicles in Urban Scenarios
